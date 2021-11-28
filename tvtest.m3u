@@ -21,8 +21,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226164/index.m3u8
 #EXTINF:-1,CCTV13HD
 http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 #EXTINF:-1,CCTV13 
-http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
-#EXTINF:-1,CCTV13 1
 http://39.135.33.209:80/cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225787/index.m3u8
 
 #EXTINF:-1,CCTV14 
