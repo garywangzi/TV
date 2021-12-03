@@ -22,6 +22,8 @@ http://39.134.39.39/PLTV/88888888/224/3221226164/index.m3u8
 http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 #EXTINF:-1,CCTV13 备用
 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+#EXTINF:-1,CCTV13 备用1
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 
 #EXTINF:-1,CCTV14 
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
