@@ -26,6 +26,8 @@ http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 http://stream10.fjtv.net/cntv13/playlist.m3u8?_upt=b128e9481638552607
 #EXTINF:-1,BBC
 https://r2---sn-i3belnl7.googlevideo.com/videoplayback?expire=1638565916&ei=vDOqYczpJpL6gQOij5XwBQ&ip=20.187.101.96&id=o-AO_TIHjeYdr_Z80bUbN-H2wI8GyonrdSUtAFlmGeunzk&itag=302&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C302&source=youtube&requiressl=yes&mh=1O&mm=31%2C26&mn=sn-i3belnl7%2Csn-oguelnsz&ms=au%2Conr&mv=m&mvi=2&pl=18&initcwndbps=1303750&vprv=1&mime=video%2Fwebm&ns=TYV-6Ue1_EiY1WHoE5cG8wUG&gir=yes&clen=26894834&dur=382.280&lmt=1638038684941697&mt=1638543917&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5535432&n=XC_kT9ZKWFdXqQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPnjy6U2n7EAAj8UzLiwXYrEvjWUt_XLuK1BxkNcgcf2AiBSv-67JvwN62zGjr76K06JJYuKpFJCKvvmWUJ5TSCm5w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKoUjo4cC3LCOF9ZZAyyhUk1ipIhy-qd4amVO5Kd7W6OAiEAxgXOtK2mr686fXZNv4kvNj8ou5m5vSOZ_I-3ocGercg%3D&alr=yes&cpn=K3ok1UbJ6Fp3zVhb&cver=1.20211201.01.00&range=0-395573&rn=1&rbuf=0
+#EXTINF:-1,CNN
+https://1942468522.rsc.cdn77.org/Dt68o1jFBh9FFQa0CiKP-w==,1638553234/1942468522/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CCTV14 
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
